@@ -43,7 +43,7 @@
   <ul>
     <li><a href="https://github.com/ValentinH8">GitHub</a></li>
     <li><a href="https://www.linkedin.com/in/valentinh8">LinkedIn</a></li>
-    <li>Email: <a href="mailto:valentinhernandezmateo@gmail.com">valentinhernandezmateo@gmail.com</a></li>
+    <li><a href="mailto:valentinhernandezmateo@gmail.com">valentinhernandezmateo@gmail.com</a></li>
   </ul>
 </body>
 </html>
