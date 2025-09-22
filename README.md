@@ -26,14 +26,14 @@
   <hr>
 
   <h2>📂 Projects</h2>
-  <h3>🚀 <a href="#">Vientrés</a></h3>
-  <p><em>In Progress</em><br>Appointment manager with e-commerce and RBAC.<br><strong>Tech Stack:</strong> NestJS, PostgreSQL, GraphQL, Docker</p>
+  //<h3>🚀 <a href="#"></a></h3>
+  //<p></p>
 
-  <h3>🚀 <a href="#">EcommerceApi</a></h3>
-  <p>Ecommerce API for Module 4 of the SoyHenry Bootcamp.<br><strong>Tech Stack:</strong> NestJS, PostgreSQL, REST API, CRUD</p>
+  //<h3>🚀 <a href="#"></a></h3>
+  //<p></p>
 
-  <h3>🚀 <a href="#">ToDo-Api</a></h3>
-  <p>ToDo API with user auth and task management using NestJS and PostgreSQL.<br><strong>Tech Stack:</strong> NestJS, JWT, CRUD, Role Access</p>
+  //<h3>🚀 <a href="#"></a></h3>
+ // <p></p>
 
   <hr>
 
