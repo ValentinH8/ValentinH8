@@ -30,13 +30,13 @@
   <p>Sistema de gestión de turnos completo para una barbería. Un proyecto con lógica de negocio compleja, que incluye autenticación, roles de usuario, y la gestión de reservas.</p>
   <ul>
     <li><strong>Tecnologías del Backend:</strong> Node.js (Express), NestJS, TypeScript, SQL, TypeORM.</li>
-    <li><strong>Tecnologías del Frontend:</strong> React.</li>
+    <li><strong>Tecnologías del Frontend:</strong> React, Vite.</li>
   </ul>
 
   <h3>**Portafolio Personal**</h3>
   <p>Mi perfil de desarrollador y una muestra de mi trabajo. Sirve como un punto de contacto y una presentación de mis habilidades técnicas y proyectos.</p>
   <ul>
-    <li><strong>Tecnologías:</strong> HTML, CSS, Git.</li>
+    <li><strong>Tecnologías:</strong> HTML, CSS, React, Vite, TypeScript,.</li>
   </ul>
 
   <hr>
