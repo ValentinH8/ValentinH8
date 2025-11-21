@@ -25,14 +25,17 @@
 
   <hr>
   
-  <h3><a href="https://github.com/somoshenry/somoshenry-backend/tree/main">** API Red social somosHenry**</a></h3>
+  <h2>📂 Projects</h2>
+
+  
+  <h3><a href="https://github.com/somoshenry/somoshenry-backend/tree/main">** 🛰️API Red social somosHenry**</a></h3>
   <h3><a href="https://www.somos-henry.com">**Link de la pagina**</a></h3>
   <p>Proyecto en equipo para la creacion de una pagina para soyHenry.</p>
   <ul>
     <li><strong>Tecnologías:</strong>TypeScript, NestJS, TypeORM, PostgreSQL, MongoDB, JWT + Google OAuth, Socket.io, CLoudinary, MercadoPago API.</li>
   </ul>
 
-  <h2>📂 Projects</h2>
+
   <h3><a href="https://github.com/ValentinH8/app-turnos-login">** 💈🗓️ app-turnos-login**</a></h3>
   <p>Sistema de gestión de turnos completo para una barbería. Un proyecto con lógica de negocio compleja, que incluye autenticación, roles de usuario, y la gestión de reservas.</p>
   <ul>
