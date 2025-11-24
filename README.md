@@ -1,72 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h1>🧠 Developer Profile</h1>
-  <p><strong>Full Stack Developer | Backend Specialist</strong><br>
-  <em>Infrastructure · Automation · API Design · DevOps</em></p>
-  <p>Combining hands-on IT knowledge with backend engineering to deliver efficient, scalable, and self-hosted systems. Focused on writing clean code, automating processes, and building tools that last.</p>
+# 👋 Hi, I'm Valentin  
+### Full Stack Developer — Backend & Infrastructure Specialist  
 
-  <hr>
+I build reliable backend systems, automate workflows, and design clean, scalable architectures. My focus is performance, maintainability, and tools that last.
 
-  <h2>⚙️ Skills Acquired</h2>
-  <ul>
-    <li><strong>Languages</strong>: TypeScript, JavaScript</li>
-    <li><strong>Backend</strong>: NestJS, Express, TypeORM, REST APIs</li>
-    <li><strong>Frontend</strong>: React, HTML, CSS, TailwindCSS</li>
-    <li><strong>Databases</strong>: PostgreSQL, MongoDB, MySQL</li>
-    <li><strong>Infrastructure</strong>: Docker, CI/CD, Deployment</li>
-    <li><strong>Authentication</strong>: JWT, Role-Based Access Control (RBAC)</li>
-    <li><strong>Tools</strong>: Git, Postman, Insomnia, Swagger, Supertest</li>
-  </ul>
+---
 
-  <hr>
-  
-  <h2>📂 Projects</h2>
+## ⚙️ Tech Stack
 
-  
-  <h3><a href="https://github.com/somoshenry/somoshenry-backend/tree/main">** 🛰️API Red social somosHenry**</a></h3>
-  <h3><a href="https://www.somos-henry.com">**Link de la pagina**</a></h3>
-  <p>Proyecto en equipo para la creacion de una pagina para soyHenry.</p>
-  <ul>
-    <li><strong>Tecnologías:</strong>TypeScript, NestJS, TypeORM, PostgreSQL, MongoDB, JWT + Google OAuth, Socket.io, CLoudinary, MercadoPago API.</li>
-  </ul>
+### **Languages**
+- TypeScript · JavaScript  
 
+### **Backend**
+- NestJS · Express  
+- TypeORM · PostgreSQL · MongoDB  
+- JWT · OAuth · RBAC  
+- REST API Design (DTOs, validation, versioning)  
+- Swagger · Jest · Supertest  
+- Docker · GitHub Actions  
+- Integrations: MercadoPago · Cloudinary · Google OAuth
 
-  <h3><a href="https://github.com/ValentinH8/app-turnos-login">** 💈🗓️ app-turnos-login**</a></h3>
-  <p>Sistema de gestión de turnos completo para una barbería. Un proyecto con lógica de negocio compleja, que incluye autenticación, roles de usuario, y la gestión de reservas.</p>
-  <ul>
-    <li><strong>Tecnologías del Backend:</strong> Node.js (Express), NestJS, TypeScript, SQL, TypeORM.</li>
-    <li><strong>Tecnologías del Frontend:</strong> React, Vite.</li>
-  </ul>
+### **Frontend**
+- React · Vite · HTML · CSS · TailwindCSS  
 
-  <h3><a href="https://github.com/ValentinH8/Portafolio">** 👨‍💻 Portafolio Personal**</a></h3>
-  <h3><a href="https://valentinhernandez.vercel.app/">**Link a mi portafolio**</a></h3>
-  <p>Mi perfil de desarrollador y una muestra de mi trabajo. Sirve como un punto de contacto y una presentación de mis habilidades técnicas y proyectos.</p>
-  <ul>
-    <li><strong>Tecnologías:</strong> HTML, CSS, React, Vite, TypeScript,.</li>
-  </ul>
+### **Databases**
+- PostgreSQL · MongoDB · MySQL  
+- TypeORM (migrations, relations, query builder)  
+- Redis (cache & rate limiting)
 
-  <hr>
+### **Infra & DevOps**
+- Docker · Docker Compose  
+- CI/CD (GitHub Actions)  
+- Deployments: Railway · Render · Vercel  
+- Environment & Secrets Management (.env)  
+- Reverse Proxies (NGINX básico)  
 
-  <h2>🚀 Current Mission</h2>
-  <ul>
-    <li><strong>Developing:</strong> Efficient backend systems with a focus on performance and reliability.</li>
-    <li><strong>Exploring:</strong> Microservices and distributed systems.</li>
-    <li><strong>Improving:</strong> Infrastructure as Code and CI/CD automation.</li>
-    <li><strong>Status:</strong> Ready for challenges and open to collaborations.</li>
-  </ul>
+### **Tools**
+- Git · Postman · Insomnia · Swagger · Supertest  
 
-  <hr>
+---
 
-  <h2>👨‍💻 Contact</h2>
-  <ul>
-    <li><a href="https://github.com/ValentinH8">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/valentinh8">LinkedIn</a></li>
-    <li><a href="mailto:valentinhernandezmateo@gmail.com">valentinhernandezmateo@gmail.com</a></li>
-  </ul>
-</body>
-</html>
+## 🚀 Featured Projects
+
+### 🛰️ **API Social Network – SoyHenry**
+Backend for the official Henry platform.  
+**Stack:** TypeScript, NestJS, TypeORM, PostgreSQL, MongoDB, JWT, Google OAuth, Socket.io, Cloudinary, MercadoPago API.  
+🔗 [Repository](https://github.com/somoshenry/somoshenry-backend/tree/main)  
+🌐 [Live Website](https://www.somos-henry.com)
+
+---
+
+### 💈🗓️ **Turnos Barbería – Full Booking System**
+Complete appointment manager with user roles, auth, schedules, and business rules.  
+**Backend:** Node.js, Express, NestJS, SQL, TypeORM  
+**Frontend:** React + Vite  
+🔗 [Repository](https://github.com/ValentinH8/app-turnos-login)
+
+---
+
+### 👨‍💻 **Portfolio**
+My personal developer site with projects and contact info.  
+**Stack:** React, Vite, TypeScript  
+🔗 [Repository](https://github.com/ValentinH8/Portafolio)  
+🌐 [Live](https://valentinhernandez.vercel.app/)
+
+---
+
+## 🎯 Current Focus
+- Improving backend architecture & performance  
+- Learning microservices & distributed systems  
+- Expanding DevOps automation (CI/CD + IaC)  
+- Building self-hosted, efficient tools  
+
+---
+
+## 📬 Connect with me
+- **GitHub:** https://github.com/ValentinH8  
+- **LinkedIn:** https://www.linkedin.com/in/valentinh8  
+- **Email:** valentinhernandezmateo@gmail.com  
