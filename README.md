@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Valentin  
-### Full Stack Developer — Backend & Infrastructure Specialist  
+### Full Stack Developer — Backend Specialist  
 
 I build reliable backend systems, automate workflows, and design clean, scalable architectures. My focus is performance, maintainability, and tools that last.
 
