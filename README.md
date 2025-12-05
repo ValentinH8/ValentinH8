@@ -5,7 +5,7 @@ I build reliable backend systems, automate workflows, and design clean, scalable
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack ##
 
 ### **Languages**
 - TypeScript · JavaScript  
