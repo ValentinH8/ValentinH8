@@ -7,9 +7,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ValentinH8">
-    <img src="https://komarev.com/ghpvc/?username=ValentinH8&label=Profile+Views&color=blue&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/valentinh8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  <a href="https://github.com/ValentinH8" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="mailto:valentinhernandezmateo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ValentinH8&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -75,16 +85,13 @@ My personal developer site with projects and contact info.
 ---
 
 ## 🎯 Current Focus
-
 - Improving backend architecture & performance  
 - Learning microservices & distributed systems  
 - Expanding DevOps automation (CI/CD + IaC)  
-- Building self-hosted, efficient tools  
 
 ---
 
 ## 📬 Connect with Me
-
 - **GitHub:** [github.com/ValentinH8](https://github.com/ValentinH8)  
 - **LinkedIn:** [linkedin.com/in/valentinh8](https://www.linkedin.com/in/valentinh8)  
 - **Email:** [valentinhernandezmateo@gmail.com](mailto:valentinhernandezmateo@gmail.com)  
@@ -94,6 +101,14 @@ My personal developer site with projects and contact info.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ValentinH8&show_icons=true&theme=tokyonight&hide_border=true" alt="Valentin's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinH8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ValentinH8&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Valentin's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinH8&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top languages"
+  />
 </p>
