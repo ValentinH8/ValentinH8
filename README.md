@@ -100,15 +100,17 @@ My personal developer site with projects and contact info.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ValentinH8&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Valentin's GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinH8&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=ValentinH8&show_icons=true&theme=transparent&hide_border=true" 
+  height="150"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinH8&layout=compact&theme=transparent&hide_border=true" 
+  height="150"
+/>
+
+</div>
 </p>
