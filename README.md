@@ -102,15 +102,18 @@ My personal developer site with projects and contact info.
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ValentinH8&show_icons=true&theme=transparent&hide_border=true" 
-  height="150"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ValentinH8&show_icons=true&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="Valentin's GitHub stats"
+  />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinH8&layout=compact&theme=transparent&hide_border=true" 
-  height="150"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinH8&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="Top languages"
+  />
 
 </div>
+
 </p>
