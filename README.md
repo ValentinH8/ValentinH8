@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Valentin </h1>
-<h3 align="center">Full Stack Developer · Backend Specialist</h3>
+<h3 align="center">Full Stack Developer · Backend Specialist </h3>
 
 <p align="center">
   I build reliable backend systems, automate workflows, and design clean, scalable architectures.<br/>
